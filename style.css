@@ -1,0 +1,40 @@
+#nav {
+    background-color: rgb(30, 124, 206);
+    
+}
+
+#color{
+    color: white;
+}
+
+.active{
+    color: black;
+}
+
+.carousel-item{
+    height: 45rem;
+    background: url("./images/Background.webp");
+    color: white;
+    position: relative;
+}
+
+img{
+    width:40rem;
+    height: 25rem;
+}
+
+/* .container{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 30rem;
+    padding-bottom: 15rem;
+    }
+
+.container1{
+    position: absolute;
+    bottom: 0;
+    left: 73rem;
+    right: 0;
+    top: 10rem;
+} */
